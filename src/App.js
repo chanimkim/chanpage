@@ -19,7 +19,7 @@ function App() {
     <div className="App">
       <header className="header">
       <h1 className="logo">
-      <img src="../CHANLOGO.png" alt="logo"></img>
+      <img src="./CHANLOGO.png" alt="logo"></img>
       </h1>
        <ul className="gnb">
          <li><a href="#main">HOME</a></li>
@@ -58,7 +58,7 @@ function App() {
                   <div className="profile">
                      <h3 className="pointText">PROFILE</h3>
                      <ul>
-                        <li className="p_img"><img src="../me.jpg"></img></li>
+                        <li className="p_img"><img src="./me.jpg"></img></li>
                         <li className="p_name">CHANMI KIM</li>
                         <li>1997.10.03</li>
                         <li>
@@ -128,7 +128,7 @@ function App() {
               <p>JavaScript</p>
               </li>
               <li>
-               <img src="../Jquery.png"></img>
+               <img src="./Jquery.png"></img>
                <p>Jquery</p>
               </li>
               <li>
